@@ -1,0 +1,48 @@
+{
+  "checked_at": "2026-04-07T21:55:19.965756+00:00",
+  "verdict": "PASS",
+  "storyboard": "ep01.md",
+  "setting": "现代中国一线城市，高端写字楼会议室，白天，阳光充足",
+  "characters": {
+    "陈锋": {
+      "completeness": {
+        "pass": true,
+        "missing": []
+      },
+      "image_friendliness": {
+        "pass": true,
+        "vague_terms": []
+      },
+      "setting_consistency": {
+        "pass": true,
+        "note": "Character has East Asian features consistent with setting"
+      },
+      "differentiation": {
+        "pass": true,
+        "similar_to": null
+      }
+    },
+    "王建国": {
+      "completeness": {
+        "pass": true,
+        "missing": []
+      },
+      "image_friendliness": {
+        "pass": true,
+        "vague_terms": []
+      },
+      "setting_consistency": {
+        "pass": true,
+        "note": "Character has East Asian features consistent with setting"
+      },
+      "differentiation": {
+        "pass": true,
+        "similar_to": null
+      }
+    }
+  },
+  "hard_fails": 0,
+  "soft_warnings": 0,
+  "auto_fixed": true,
+  "fix_rounds": 1
+}
