@@ -1,0 +1,33 @@
+{
+  "project": "tanpan-duju-ep01",
+  "created_at": "2026-04-07T21:54:15.999686+00:00",
+  "github_repo": "ykzhujiang/tanpan-duju-ep01",
+  "config": {
+    "theme": "创业者在谈判中被逼到墙角，亮出竞争对手的合作意向书逆转局面",
+    "genre": "thriller",
+    "style": "realistic",
+    "duration": 60,
+    "characters": 2,
+    "setting": "现代中国一线城市高端写字楼会议室",
+    "ratio": "9:16",
+    "episode": "ep01"
+  },
+  "status": "not_started",
+  "steps": {
+    "step1b": {
+      "status": "not_started"
+    },
+    "step1.5": {
+      "status": "not_started"
+    },
+    "step3": {
+      "status": "not_started"
+    },
+    "step4": {
+      "status": "not_started"
+    },
+    "step6": {
+      "status": "not_started"
+    }
+  }
+}
