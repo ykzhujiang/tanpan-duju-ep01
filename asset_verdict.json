@@ -1,0 +1,25 @@
+{
+  "verdict": "FAIL",
+  "style": "realistic",
+  "assets": [
+    {
+      "label": "陈锋",
+      "type": "character",
+      "verdict": "ERROR",
+      "error": "Check returned no result"
+    },
+    {
+      "label": "王建国",
+      "type": "character",
+      "verdict": "ERROR",
+      "error": "Check returned no result"
+    },
+    {
+      "label": "会议室",
+      "type": "scene",
+      "verdict": "ERROR",
+      "error": "Check returned no result"
+    }
+  ],
+  "summary": "0/3 assets passed"
+}
